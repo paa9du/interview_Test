@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700152513591",
+    "project_id": "second-35a65",
+    "storage_bucket": "second-35a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700152513591:android:338d3a1970ece1dce22bb2",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pCPr8agpuOSVqA9xjgfJnuvIJzCBkWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
